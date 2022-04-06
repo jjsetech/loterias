@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-color: #EFFFFD;
+}
+
+.container-fluid{
+  padding: 7% 4%;
+}
+.titulo {
+  color: blue;
+  font-size: 6rem;
+  padding-top: 30px;
+  font-weight: bold;
+}
+
+.subtitle-text{
+  font-size: 2rem;
+  color: grey;
+  font-weight: bold;
+}
+
+.btn{
+  width: 110px;
+  margin: 20px;
+}
+
+.start-message, .tipo-de-jogo {
+  color: #42C2FF;
+}
